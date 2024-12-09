@@ -1,16 +1,17 @@
-## Hi there 👋
+## Raisons d'être
 
-<!--
-**ericMossotti/ericMossotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My purpose here is to contribute towards an environment of understanding, skill progression and creative expression. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## More About
+
+- 🔭 I’m currently working on a live Kaggle competition dataset: Child Mind Institute - Problematic Internet Use. I'm using the Jupyter engine inside of my Quarto project. I've decided on performing most of the data transformations inside of an embedded database via DuckDB-SQL syntax operations. Python and SQL are the main lanugages I'm using.
+
+- 🌱 I’m currently applying my skills to all things data with applications to various scientific fields, subjects and more.
+
+- 🤔 I’m looking for volunteer and employment opportunities where data skills might be useful. Let me know if you need help or know of those who might.
+
+- 💬 Ask me about anything that might be of interest to you.
+
+- 📫 How to reach me?
+  - [Email](ecmossotti@gmail.com) 
