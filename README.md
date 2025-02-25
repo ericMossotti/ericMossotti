@@ -1,17 +1,14 @@
-## Raisons d'être
+# Why I'm Here
 
 My purpose here is to contribute towards an environment of understanding, skill progression and creative expression. 
 
+- I’m currently working on a weather data API to better inform trucking industry participants of optimal contract prices.
 
-## More About
+- I’m currently applying my skills to all things data with applications to various scientific fields, subjects and more.
 
-- 🔭 I’m currently working on a weather data API to better inform trucking industry participants of optimal contract prices.
+- I’m looking for volunteer and employment opportunities where data skills might be useful. Let me know if you need help or know of those who might.
 
-- 🌱 I’m currently applying my skills to all things data with applications to various scientific fields, subjects and more.
+- Ask me about anything that might be of interest to you.
 
-- 🤔 I’m looking for volunteer and employment opportunities where data skills might be useful. Let me know if you need help or know of those who might.
-
-- 💬 Ask me about anything that might be of interest to you.
-
-- 📫 How to reach me?
+- How to reach me?
   - [Email](ecmossotti@gmail.com) 
